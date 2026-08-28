@@ -87,10 +87,8 @@ streamlit run app.py        # launch the chat UI
 
 ## Screenshots of the Demo:
 
+<img width="500" alt="one" src="https://github.com/user-attachments/assets/3408076b-c807-4a1b-afff-f5b5dc7015ab" />
+<img width="500" alt="two" src="https://github.com/user-attachments/assets/5acba36c-5670-46fc-9b0e-310b0c24313e" />
+<img width="500" alt="three" src="https://github.com/user-attachments/assets/462e2d89-9cdf-473f-a2ca-8bff0a85950b" />
 
-!\[](screenshots/one.png)
-
-!\[](screenshots/two.png)
-
-!\[](screenshots/three.png)
 
